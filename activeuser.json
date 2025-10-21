@@ -30,5 +30,9 @@
       "password": "1234",
       "expire_date": "2026-01-01"
     }
+    { "device_id": "daf7ac07f5ae8833",
+      "password": "Priya@yellow",
+      "expire_date": "2025-01-01"
+    }
   ]
 }
